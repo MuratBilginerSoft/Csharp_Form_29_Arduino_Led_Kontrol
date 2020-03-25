@@ -1,0 +1,34 @@
+C:\Users\ncfkr1\Desktop\ \C#\Led Yakma\Led Yakma\bin\Debug\Led Yakma.exe
+C:\Users\ncfkr1\Desktop\ \C#\Led Yakma\Led Yakma\bin\Debug\Led Yakma.pdb
+C:\Users\ncfkr1\Desktop\ \C#\Led Yakma\Led Yakma\obj\x86\Debug\Led_Yakma.Form1.resources
+C:\Users\ncfkr1\Desktop\ \C#\Led Yakma\Led Yakma\obj\x86\Debug\Led_Yakma.Properties.Resources.resources
+C:\Users\ncfkr1\Desktop\ \C#\Led Yakma\Led Yakma\obj\x86\Debug\Led Yakma.csproj.GenerateResource.Cache
+C:\Users\ncfkr1\Desktop\ \C#\Led Yakma\Led Yakma\obj\x86\Debug\Led Yakma.exe
+C:\Users\ncfkr1\Desktop\ \C#\Led Yakma\Led Yakma\obj\x86\Debug\Led Yakma.pdb
+C:\Users\ncfkr1\Desktop\ \C#\Led Yakma\Led Yakma\obj\x86\Debug\Led Yakma.csprojResolveAssemblyReference.cache
+C:\Users\ncfkr1\Desktop\ \2 HİDROSAFİR\Led Yakma\Led Yakma\obj\x86\Debug\Led Yakma.exe
+C:\Users\ncfkr1\Desktop\ \2 HİDROSAFİR\Led Yakma\Led Yakma\obj\x86\Debug\Led Yakma.pdb
+I:\1 MURAT BİLGİNER\1 MURAT\6 HİDROSAFİR\KODLAR\2 HİDROSAFİR\Led Yakma\Led Yakma\obj\x86\Debug\Led Yakma.exe
+I:\1 MURAT BİLGİNER\1 MURAT\6 HİDROSAFİR\KODLAR\2 HİDROSAFİR\Led Yakma\Led Yakma\obj\x86\Debug\Led Yakma.pdb
+I:\1 MURAT BİLGİNER\1 MURAT\6 HİDROSAFİR\KODLAR\2 HİDROSAFİR\Led Yakma\Led Yakma\bin\Debug\Led Yakma.exe
+I:\1 MURAT BİLGİNER\1 MURAT\6 HİDROSAFİR\KODLAR\2 HİDROSAFİR\Led Yakma\Led Yakma\bin\Debug\Led Yakma.pdb
+I:\1 MURAT BİLGİNER\1 MURAT\6 HİDROSAFİR\KODLAR\2 HİDROSAFİR\Led Yakma\Led Yakma\obj\x86\Debug\Led Yakma.csprojResolveAssemblyReference.cache
+I:\1 MURAT BİLGİNER\1 MURAT\6 HİDROSAFİR\KODLAR\2 HİDROSAFİR\Led Yakma\Led Yakma\obj\x86\Debug\Led_Yakma.Form1.resources
+I:\1 MURAT BİLGİNER\1 MURAT\6 HİDROSAFİR\KODLAR\2 HİDROSAFİR\Led Yakma\Led Yakma\obj\x86\Debug\Led_Yakma.Properties.Resources.resources
+I:\1 MURAT BİLGİNER\1 MURAT\6 HİDROSAFİR\KODLAR\2 HİDROSAFİR\Led Yakma\Led Yakma\obj\x86\Debug\Led Yakma.csproj.GenerateResource.Cache
+F:\x\1 MURAT\4 YAZILIM\12 HİDROSAFİR\LED YAKMA\Led Yakma\obj\x86\Debug\Led Yakma.exe
+F:\x\1 MURAT\4 YAZILIM\12 HİDROSAFİR\LED YAKMA\Led Yakma\obj\x86\Debug\Led Yakma.pdb
+F:\x\1 MURAT\4 YAZILIM\12 HİDROSAFİR\LED YAKMA\Led Yakma\bin\Debug\Led Yakma.exe
+F:\x\1 MURAT\4 YAZILIM\12 HİDROSAFİR\LED YAKMA\Led Yakma\bin\Debug\Led Yakma.pdb
+F:\x\1 MURAT\4 YAZILIM\12 HİDROSAFİR\LED YAKMA\Led Yakma\obj\x86\Debug\Led Yakma.csprojResolveAssemblyReference.cache
+F:\x\1 MURAT\4 YAZILIM\12 HİDROSAFİR\LED YAKMA\Led Yakma\obj\x86\Debug\Led_Yakma.Form1.resources
+F:\x\1 MURAT\4 YAZILIM\12 HİDROSAFİR\LED YAKMA\Led Yakma\obj\x86\Debug\Led_Yakma.Properties.Resources.resources
+F:\x\1 MURAT\4 YAZILIM\12 HİDROSAFİR\LED YAKMA\Led Yakma\obj\x86\Debug\Led Yakma.csproj.GenerateResource.Cache
+E:\04 - Yazılım\04 - Form Projeleri\13 C# & Arduino Led Kontrol\Led Yakma\obj\x86\Debug\Led Yakma.exe
+E:\04 - Yazılım\04 - Form Projeleri\13 C# & Arduino Led Kontrol\Led Yakma\obj\x86\Debug\Led Yakma.pdb
+E:\04 - Yazılım\04 - Form Projeleri\13 C# & Arduino Led Kontrol\Led Yakma\bin\Debug\Led Yakma.exe
+E:\04 - Yazılım\04 - Form Projeleri\13 C# & Arduino Led Kontrol\Led Yakma\bin\Debug\Led Yakma.pdb
+E:\04 - Yazılım\04 - Form Projeleri\13 C# & Arduino Led Kontrol\Led Yakma\obj\x86\Debug\Led Yakma.csprojResolveAssemblyReference.cache
+E:\04 - Yazılım\04 - Form Projeleri\13 C# & Arduino Led Kontrol\Led Yakma\obj\x86\Debug\Led_Yakma.Form1.resources
+E:\04 - Yazılım\04 - Form Projeleri\13 C# & Arduino Led Kontrol\Led Yakma\obj\x86\Debug\Led_Yakma.Properties.Resources.resources
+E:\04 - Yazılım\04 - Form Projeleri\13 C# & Arduino Led Kontrol\Led Yakma\obj\x86\Debug\Led Yakma.csproj.GenerateResource.Cache
